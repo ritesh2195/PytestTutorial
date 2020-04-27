@@ -1,0 +1,34 @@
+2020-04-22 11:50:45,998 :INFO : test_logging :Information statement is executed
+2020-04-22 11:50:45,998 :WARNING : test_logging :look at warning messabges
+2020-04-22 11:50:45,998 :ERROR : test_logging :There is error message
+2020-04-22 11:50:45,998 :CRITICAL : test_logging :A critical statement is present
+2020-04-22 11:53:43,208 :DEBUG : test_logging :A debug statement is executed
+2020-04-22 11:53:43,208 :INFO : test_logging :Information statement is executed
+2020-04-22 11:53:43,208 :WARNING : test_logging :look at warning messabges
+2020-04-22 11:53:43,208 :ERROR : test_logging :There is error message
+2020-04-22 11:53:43,208 :CRITICAL : test_logging :A critical statement is present
+2020-04-22 11:54:49,316 :DEBUG : test_logging :A debug statement is executed
+2020-04-22 11:54:49,316 :INFO : test_logging :Information statement is executed
+2020-04-22 11:54:49,316 :WARNING : test_logging :look at warning messabges
+2020-04-22 11:54:49,316 :ERROR : test_logging :There is error message
+2020-04-22 11:54:49,316 :CRITICAL : test_logging :A critical statement is present
+2020-04-22 11:55:04,742 :DEBUG : test_logging :A debug statement is executed
+2020-04-22 11:55:04,742 :INFO : test_logging :Information statement is executed
+2020-04-22 11:55:04,742 :WARNING : test_logging :look at warning messabges
+2020-04-22 11:55:04,742 :ERROR : test_logging :There is error message
+2020-04-22 11:55:04,742 :CRITICAL : test_logging :A critical statement is present
+2020-04-22 11:55:31,201 :DEBUG : test_logging :A debug statement is executed
+2020-04-22 11:55:31,201 :INFO : test_logging :Information statement is executed
+2020-04-22 11:55:31,201 :WARNING : test_logging :look at warning messabges
+2020-04-22 11:55:31,201 :ERROR : test_logging :There is error message
+2020-04-22 11:55:31,201 :CRITICAL : test_logging :A critical statement is present
+2020-04-22 11:56:00,111 :INFO : test_logging :Information statement is executed
+2020-04-22 11:56:00,111 :WARNING : test_logging :look at warning messabges
+2020-04-22 11:56:00,111 :ERROR : test_logging :There is error message
+2020-04-22 11:56:00,111 :CRITICAL : test_logging :A critical statement is present
+2020-04-22 11:56:34,393 :DEBUG : test_logging :A debug statement is executed
+2020-04-22 11:56:34,393 :INFO : test_logging :Information statement is executed
+2020-04-22 11:56:34,393 :WARNING : test_logging :look at warning messabges
+2020-04-22 11:56:34,393 :ERROR : test_logging :There is error message
+2020-04-22 11:56:34,393 :CRITICAL : test_logging :A critical statement is present
+2020-04-22 11:57:10,526 :CRITICAL : test_logging :A critical statement is present
